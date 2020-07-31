@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">@color/blue</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorBlack">#2B2B2B</color>
+    <color name="cromeColor">#DD4F42</color>
+    <color name="red">#FF0C0C</color>
+    <color name="green">#1BA161</color>
+    <color name="blue">#2A54C2</color>
+    <color name="yellow">#F9D803</color>
+
+
+</resources>
+
+

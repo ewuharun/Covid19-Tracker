@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CoronaTracker</string>
+    <string name="toolbarSearch">Enter Country</string>
+    <string name="toolbarTitle">Corona Tracker</string>
+    <string name="mainCardViewTitle">Country Name</string>
+    <string name="mainCardViewTotalCase">Total Case</string>
+    <string name="country_name">Country</string>
+    <string name="totalCase">Total Case</string>
+    <string name="totalDeaths">Todays Deaths</string>
+    <string name="totalNumberOfDeaths">Total Deaths</string>
+    <string name="totalRecovered">Total Recovered</string>
+    <string name="totalActive">Total Active</string>
+
+</resources>
